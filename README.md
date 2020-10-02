@@ -1,1 +1,1 @@
-CAR RENTAL is an Amazing project
+How to run the carrental project 
